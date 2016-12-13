@@ -1,0 +1,8 @@
+baseurl = "https://ashcoding.github.io/tgw-website/"
+title = "Today Got What?"
+languageCode = "en-us"
+theme = "hyde"
+
+[params]
+  themeColor = "theme-base-09"
+  description = "A curation of fun events in Singapore"
