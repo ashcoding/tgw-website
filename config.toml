@@ -4,4 +4,6 @@ languageCode = "en-us"
 theme = "hugo-cactus-theme"
 
 [params]
-  description = "A curation of fun events in Singapore"
+  name = "Today Got What?"
+	description = "A curation of fun events in Singapore"
+	bio = "Curating fun events in Singapore"
